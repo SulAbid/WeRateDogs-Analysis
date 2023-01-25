@@ -8,7 +8,7 @@ Our information and insights were extracted from WeRateDogs account, this accoun
 This dataset was given to us as a file on hand, and it was a comma-separated values file, aka CSV file.
 - Image Prediction Dataset:
 This dataset was extracted using Requests library in Python, we used Requests to retrieve the data from Udacity’s servers and the data were in TSV file format.
--Tweets Dataset:
+- Tweets Dataset:
 This dataset was retrieved from Twitter’s API using Tweepy library, The data were in JSON format.
 
 ### Data Assessment:
