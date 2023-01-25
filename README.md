@@ -1,5 +1,6 @@
 # WeRateDogs-Analysis
 In this project I have gathered data from different sources, assessed it, cleaned it. 
+Our information and insights were extracted from WeRateDogs account, this account is about rating people’s dogs with rating number out of 10, although the data is only about one account but it was gathered from different sources, and since real life data doesn’t come clean and perfect, we have to do the dirty work to make it look better and easier to extract knowledge from it.
 
 ## Data:
 ### Data Gathering:
